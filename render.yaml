@@ -4,6 +4,6 @@ services:
     env: docker
     plan: free
     branch: main
-    repo: https://github.com/Dawensboytech/MINI-JESUS-CRASH-
+    repo: https://github.com/DAWENS-BOY904/MINI-CRASH-pair
     dockerfilePath: ./Dockerfile
     autoDeploy: true
